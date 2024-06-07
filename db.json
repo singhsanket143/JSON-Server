@@ -1,0 +1,9 @@
+{
+  "posts": [
+    {
+      "id": "3",
+      "title": "Third post",
+      "content": "This is my third post"
+    }
+  ]
+}
